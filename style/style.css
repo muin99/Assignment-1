@@ -30,7 +30,6 @@ margin: 27px 0px 0px 70px;
 .btn-primary{
     background-color: transparent;
     border: 2px solid #1A1A1A;
-    border-radius: 8px;
     color: #5a5a5a;
     cursor: pointer;
     font-size: 12px;
@@ -40,6 +39,12 @@ margin: 27px 0px 0px 70px;
     margin-right: 70px;
     
 }
+.btn-primary a{
+    text-decoration: none;
+    color: rgb(13, 19, 33);
+
+}
+
 
 
 .head{
@@ -90,16 +95,54 @@ background-color: #1A1A1A;
 .dev-h1{
     text-align: center;
     font-weight: 800;
+    margin-top: 90px;
 }
 
 .dev-disc{
     text-align: center;
-    font-size: 16px;
+    font-size: 14px;
     color: rgb(13, 19, 33);
     opacity: 0.7;
+    margin: 20px 90px 0px 90px;
+
 
 
 }
+
+.img-text{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 50px 20px;
+
+}
+.main-content p{
+    margin-right: 100px;
+    color: rgb(13, 19, 33);
+    opacity: 0.7;
+    max-width: 50%;
+    display: flex;
+    
+}
+.text-center{
+    text-align: center;
+}
+
+.inspiration-title{
+    color: rgb(13, 19, 33);
+    font-size: 32px;
+    font-weight: 800;
+}
+
+.inspiration-disc{
+    color: rgb(13, 19, 33);
+    font-family: Azeret Mono;
+    font-size: 16px;
+    font-weight: 400;
+    margin-bottom: 48px;
+}
+
+
 
 
 
