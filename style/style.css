@@ -142,6 +142,134 @@ background-color: #1A1A1A;
     margin-bottom: 48px;
 }
 
+.target{
+    color: rgb(13, 19, 33);
+font-family: Azeret Mono;
+font-size: 30px;
+font-weight: 800;
+margin-top: 151px;
+}
+
+.target-disc{
+    color: rgb(13, 19, 33);
+font-family: Azeret Mono;
+font-size: 16px;
+font-weight: 400;
+opacity: 0.7;
+margin: 0px 294px 0 294px;
+/
+}
+.html-css-java{
+    display: flex;
+    margin: 48px 130px 111px 130px;
+    
+
+    
+}
+.html {
+    border-style: ridge;
+    background-color: rgba(255, 76, 30, 0.05);
+    border: none;
+    margin-right: 24px;
+}
+.html h3{
+    margin: 0px 40px 40px 40px;
+    color: rgb(13, 19, 33);
+    font-family: Azeret Mono;
+    font-size: 24px;
+    font-weight: 800;
+    line-height: 36px;
+    text-align: left;
+}
+
+.html p{
+    color: rgb(13, 19, 33);
+font-family: Azeret Mono;
+font-size: 16px;
+font-weight: 400;
+line-height: 26px;
+text-align: left;
+opacity: 0.7;
+margin: 0px 40px 40px 40px;
+
+}
+.html img{
+    margin: 40px 40px 20px 40px;
+}
+.css{
+    border-style: ridge;
+    background: rgba(0, 76, 232, 0.05);
+    border: none;
+    margin-right: 24px;
+}
+.css h3{
+    color: rgb(13, 19, 33);
+font-family: Azeret Mono;
+font-size: 24px;
+font-weight: 800;
+line-height: 36px;
+letter-spacing: 0%;
+text-align: left;
+margin: 0px 40px 40px 40px;
+}
+.css p{
+    color: rgb(13, 19, 33);
+font-family: Azeret Mono;
+font-size: 16px;
+font-weight: 400;
+line-height: 26px;
+letter-spacing: 0%;
+text-align: left;
+opacity: 0.7;
+margin: 40px 40px 20px 40px;
+
+}
+.css img{
+    margin: 40px 40px 20px 40px;
+}
+.js{
+    border-style: ridge;
+    background-color: rgba(255, 223, 0, 0.05);
+    border: none;
+}
+
+.js h3{
+    color: rgb(13, 19, 33);
+font-family: Azeret Mono;
+font-size: 24px;
+font-weight: 800;
+line-height: 36px;
+text-align: left;
+margin: 0px 40px 40px 40px;
+}
+.js p{
+    color: rgb(13, 19, 33);
+    font-family: Azeret Mono;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 26px;
+    letter-spacing: 0%;
+    text-align: left;
+    opacity: 0.7;
+    margin: 0px 40px 40px 40px;
+
+}
+.js img{
+    margin: 40px 40px 20px 40px;
+}
+
+.learning{
+    color: rgb(13, 19, 33);
+font-family: Azeret Mono;
+font-size: 16px;
+font-weight: 700;
+line-height: 19px;
+letter-spacing: 0%;
+text-align: left;
+text-decoration-line: underline;
+margin-left: 40px;
+}
+
 
 
 
