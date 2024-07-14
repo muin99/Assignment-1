@@ -1,0 +1,68 @@
+.azeret-mono-normal {
+  font-family: "Azeret Mono", monospace;
+  font-optical-sizing: auto;
+  font-style: normal;
+}
+
+/* Nav styles */
+nav ul {
+    display: flex;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    justify-content: space-between;
+}
+
+.Mahi{
+    color: rgb(13, 19, 33);
+font-size: 28px;
+font-weight: 800;
+line-height: 33px;
+letter-spacing: 0%;
+text-align: left;
+margin: 27px 0px 0px 70px;
+}
+.btn-primary{
+    background-color: transparent;
+    border: 2px solid #1A1A1A;
+    border-radius: 8px;
+    color: #5a5a5a;
+    cursor: pointer;
+    font-size: 12px;
+    font-weight: 600;
+    padding: 10px 30px;
+    margin-top: 20px;
+    margin-right: 70px;
+    text-align: center;
+    
+}
+
+.head{
+    color: rgb(13, 19, 33);
+font-size: 35px;
+font-weight: 800;
+letter-spacing: 0%;
+text-align: center;
+margin-top: 180px;
+margin-right: 100px;
+margin-left: 100px;
+margin-bottom: 218px;
+}
+.hope-to-developer{
+    margin: 0;
+    font-size: 18px; 
+    color: #333333;
+}
+.banner-title{
+    background-image: url("../assets/Hero-bg.png");
+    background-size: cover;
+    background-position: center;
+    text-align: center;
+    color: #1A1A1A;
+    padding: 100px 100px;
+    /* margin-left: -10%;
+    margin-right: -10%; */
+}
+
+
+
